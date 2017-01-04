@@ -18,3 +18,6 @@ To run the app:
 $ source venv/bin/activate
 $ python routes.py
 ```
+## Bugs/Issues
+
+I still need to add a login button to the index page and in the home page not all addresses accepted currently.
