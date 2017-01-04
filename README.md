@@ -12,7 +12,7 @@ $ git clone https://github.com/saimunshahee/lookaround.git
 ```
 
 Then `cd` into the project folder to access the files.
-To run the file:
+To run the app:
 
 ```bash
 $ source venv/bin/activate
